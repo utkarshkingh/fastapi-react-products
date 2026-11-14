@@ -1,5 +1,5 @@
 {
-  "name": "telusko-trac-frontend",
+  "name": "fastapi-react-products-frontend",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
